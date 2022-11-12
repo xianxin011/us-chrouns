@@ -31,7 +31,10 @@
     "trailingComma": "es5"
   },
   "name": "us-chrouns",
-  "author": "mgu",
+  "author": {
+    "name" : "chrouns",
+    "email" : "code_xiaozhu@163.com"
+  },
   "module": "dist/us-chrouns.esm.js",
   "size-limit": [
     {
@@ -54,5 +57,15 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgu-x/us-chrouns.git",
+    "branch": "master",
+    "platform": "github"
+  },
+  "bugs": {  
+    "url" : "https://github.com/mgu-x/us-chrouns.git/issues",  
+    "email" : "code_xiaozhu@163.com" 
   }
 }
