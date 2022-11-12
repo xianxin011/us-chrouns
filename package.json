@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -32,8 +32,8 @@
   },
   "name": "us-chrouns",
   "author": {
-    "name" : "chrouns",
-    "email" : "code_xiaozhu@163.com"
+    "name": "chrouns",
+    "email": "code_xiaozhu@163.com"
   },
   "module": "dist/us-chrouns.esm.js",
   "size-limit": [
@@ -64,8 +64,8 @@
     "branch": "master",
     "platform": "github"
   },
-  "bugs": {  
-    "url" : "https://github.com/mgu-x/us-chrouns.git/issues",  
-    "email" : "code_xiaozhu@163.com" 
+  "bugs": {
+    "url": "https://github.com/mgu-x/us-chrouns.git/issues",
+    "email": "code_xiaozhu@163.com"
   }
 }
