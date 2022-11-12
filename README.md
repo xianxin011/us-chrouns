@@ -1,10 +1,5 @@
-# TSDX User Guide
-
-Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
-
-> This TSDX setup is meant for developing libraries (not apps!) that can be published to NPM. If you’re looking to build a Node app, you could use `ts-node-dev`, plain `ts-node`, or simple `tsc`.
-
-> If you’re new to TypeScript, checkout [this handy cheatsheet](https://devhints.io/typescript)
+# us-chrouns
+welcome to us-chrouns!
 
 ## Commands
 
@@ -97,7 +92,3 @@ Per Palmer Group guidelines, [always use named exports.](https://github.com/palm
 There are many ways to ship styles, including with CSS-in-JS. TSDX has no opinion on this, configure how you like.
 
 For vanilla CSS, you can include it at the root directory and add it to the `files` section in your `package.json`, so that it can be imported separately by your users and run through their bundler's loader.
-
-## Publishing to NPM
-
-We recommend using [np](https://github.com/sindresorhus/np).
